@@ -1,0 +1,8 @@
+/node_modules
+/hot
+npm-debug.log
+yarn-error.log
+/.well-known
+/cgi-bin
+/.htaccess
+/.idea
