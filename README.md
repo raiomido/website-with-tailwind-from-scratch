@@ -15,5 +15,5 @@ $ npm run prod
 ```
 
 ### For detailed explanation on how things work, check out
-##### [How to build a website from scratch part 1](https://raivill.com/blog/designing-with-tailwindcss/how-to-build-a-website-from-scratch-part-1).
-##### [How to build a website from scratch part 2](https://raivill.com/blog/designing-with-tailwindcss/how-to-build-a-website-from-scratch-part-2).
+##### [How to build a website from scratch part 1](https://snobole.com/blog/designing-with-tailwindcss/how-to-build-a-website-from-scratch-part-1).
+##### [How to build a website from scratch part 2](https://snobole.com/blog/designing-with-tailwindcss/how-to-build-a-website-from-scratch-part-2).
